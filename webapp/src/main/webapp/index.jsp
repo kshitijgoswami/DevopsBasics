@@ -1,3 +1,3 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1> Kshitij Goswami Demo on Devops Functionality</h1>
+<h2> I am working on CI/CD devops part for TBO</h2>
+<h2> Today is the first day of the week</h2>
